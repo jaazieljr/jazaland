@@ -1,0 +1,14 @@
+.header{
+  background: var(--gray-800);
+  display:flex;
+  justify-content:center;
+  
+  
+
+  padding: 1.25rem 0;
+}
+/* A unidade de medida rem equivale por padrao 16px, quando se amplia a tela a letra é relativa e pode aumentar ou diminuir*/
+
+.header img{
+  height: 8rem;
+}
